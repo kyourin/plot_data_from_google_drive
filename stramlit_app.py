@@ -103,3 +103,4 @@ if SERVICE_ACCOUNT_FILE is not None:
                 st.write(fig)
 
             time.sleep(47)
+            st.rerun()
